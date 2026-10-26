@@ -12,7 +12,7 @@
         "barryvdh/laravel-dompdf": "^3.1",
         "diglactic/laravel-breadcrumbs": "^10.0",
         "enshrined/svg-sanitize": "^0.22.0",
-        "google/apiclient": "^2.18",
+        "google/apiclient": "^2.20.1",
         "guzzlehttp/guzzle": "^7.8",
         "khaled.alshamaa/ar-php": "^6.3",
         "konekt/concord": "^1.17",
